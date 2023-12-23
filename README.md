@@ -1,1 +1,1 @@
-#start file home.html
+#start file index.html
